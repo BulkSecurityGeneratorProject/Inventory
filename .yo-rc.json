@@ -1,0 +1,45 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "Inventory",
+    "packageName": "com.afroware.doro.inventory",
+    "packageFolder": "com/afroware/doro/inventory",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "ar-ly",
+      "en",
+      "fr"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.2",
+    "jwtSecretKey": "ZjcwZjE2MDc2ZGU0N2Q5ZDMyYjQwY2NmZTZmYTExZWI3NzBmNTgwNWU1YzRmMThlNzAxODg2MDcyYTVjY2U1Y2VmYzdkNDVmY2MwZmM4Y2M1MjExMjBiOGFiM2Y4NThjZjIzZjBlMGE1ZThmOTNkZDY0NzAzNThhNzMzM2JjMzM=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "afroware",
+  "repository-name": "Inventory"
+}
